@@ -1,0 +1,2 @@
+(this["webpackJsonpjs-19"]=this["webpackJsonpjs-19"]||[]).push([[0],{11:function(t,n,e){"use strict";e.r(n);e(1);var c=e(3),o=e.n(c),r=(e(8),e(9),e(0));var s=function(){return Object(r.jsx)("h1",{children:" Just practice to deploy react app on github "})};o.a.render(Object(r.jsx)(s,{}),document.getElementById("root"))},8:function(t,n,e){},9:function(t,n,e){}},[[11,1,2]]]);
+//# sourceMappingURL=main.3bac554f.chunk.js.map
