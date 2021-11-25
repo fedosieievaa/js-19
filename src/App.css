@@ -1,0 +1,42 @@
+body {
+    background-color: rgba(76, 107, 134, 0.363);
+}
+
+.container {
+    width: 350px;
+    margin: 30px auto;
+    background: rgba(180, 180, 180, 0.384);
+    padding: 30px;
+    border: 0.5px solid gray;
+    border-radius: 2%;
+}
+
+.search {
+    width: 200px;
+    height: 30px;
+    outline: none;
+    cursor: pointer;
+}
+
+.container_contact {
+    border-bottom: 1px solid gray;
+    margin: 0 0 20px 0;
+    padding: 20px 0 0 0;
+}
+
+.contact_name,
+.contact_surname {
+    padding: 5px;
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(74, 97, 139);
+}
+
+.contact_gender {
+    width: 16px;
+}
+
+.contact_phone {
+    padding: 10px;
+    font-size: 20px;
+}
